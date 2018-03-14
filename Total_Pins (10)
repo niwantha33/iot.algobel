@@ -1,0 +1,13 @@
+Pin : 0 ------> INPUT/OUTPUT or Inttrupt 
+Pin : 2 ------> INPUT/OUTPUT or Inttrupt 
+Pin : 13 ------> INPUT/OUTPUT or Inttrupt 
+Pin : 12------> INPUT/OUTPUT or Inttrupt 
+Pin : 14 ------> INPUT/OUTPUT or Inttrupt 
+Pin : 16------> INPUT/OUTPUT or Inttrupt 
+Pin : 4------> INPUT/OUTPUT or Inttrupt // I2c Display 
+Pin : 5 ------> INPUT/OUTPUT or Inttrupt // I2C Display 
+Pin : 1 ------> INPUT/OUTPUT or Inttrupt // Serial. Comm..
+Pin : 3 ------> INPUT/OUTPUT or Inttrupt // Serial Comm..
+
+# Total 10 Pins 
+# One 5 V Analog Input 
